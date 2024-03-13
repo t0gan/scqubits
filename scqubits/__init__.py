@@ -42,6 +42,7 @@ from scqubits.core.param_sweep import ParameterSweep
 from scqubits.core.storage import DataStore, SpectrumData
 from scqubits.core.symbolic_circuit import SymbolicCircuit
 from scqubits.core.transmon import Transmon, TunableTransmon
+from scqubits.core.transmon_jh import Transmon_jh
 from scqubits.core.units import (
     from_standard_units,
     get_units,
